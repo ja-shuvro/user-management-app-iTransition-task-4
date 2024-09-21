@@ -18,7 +18,7 @@ yarn.lock
 .env.production.local
 
 # Logs
-logs
+logs/
 *.log
 
 # Miscellaneous
